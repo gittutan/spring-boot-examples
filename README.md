@@ -1,6 +1,6 @@
 # Spring Boot Examples
 
-Spring Boot使用的各种示例，以最简单、最实用为标准
+Spring Boot 使用的各种示例，以最简单、最实用为标准
 
 [Spring Boot 中文索引](https://github.com/ityouknow/awesome-spring-boot) &nbsp;| &nbsp; [Spring Cloud学习示例代码](https://github.com/ityouknow/spring-cloud-examples) &nbsp;| &nbsp; [Spring Boot 达人课](https://github.com/ityouknow/spring-boot-leaning) 
 
@@ -16,6 +16,9 @@ Spring Boot使用的各种示例，以最简单、最实用为标准
 - [spring-boot-hello](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-hello)：Spring Boot 2.0  Hello World 示例
 - [spring-boot-banner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：Spring Boot 定制 Banner 示例
 - [spring-boot-docker](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-banner)：使用 Docker 部署 Spring Boot 示例
+- [dockercompose-springboot-mysql-nginx](https://github.com/ityouknow/spring-boot-examples/tree/master/dockercompose-springboot-mysql-nginx) ：Docker Compose + Spring Boot + Nginx + Mysql 示例  
+- [spring-boot-commandLineRunner](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-commandLineRunner) ：Spring Boot 使用 commandLineRunner 实现项目启动时资源初始化示例  
+- [spring-boot-web-thymeleaf](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-web-thymeleaf) ：Spring Boot 使用 thymeleaf 实现布局、验参、增删改查示例    
 
 
 **参考文章**
@@ -24,8 +27,8 @@ Spring Boot使用的各种示例，以最简单、最实用为标准
 - [Spring Boot 2.0(二)：Spring Boot 2.0尝鲜-动态 Banner](http://www.ityouknow.com/springboot/2018/03/03/spring-boot-banner.html)  
 - [Spring Boot 2.0(三)：Spring Boot 开源软件都有哪些？](http://www.ityouknow.com/springboot/2018/03/05/spring-boot-open-source.html)  
 - [Spring Boot 2.0(四)：使用 Docker 部署 Spring Boot](http://www.ityouknow.com/springboot/2018/03/19/spring-boot-docker.html)  
-
-
+- [Spring Boot 2.0(五)：Docker Compose + Spring Boot + Nginx + Mysql 实践](http://www.ityouknow.com/springboot/2018/03/28/dockercompose-springboot-mysql-nginx.html)  
+- [Spring Boot 2.0(六)：使用 Docker 部署 Spring Boot 开源软件云收藏](http://www.ityouknow.com/springboot/2018/04/02/docker-favorites.html) 
 ---
 
 ## Spring Boot 1.0
